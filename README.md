@@ -6,9 +6,6 @@
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -34,7 +31,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR code URL](https://kennedy-was-taken.github.io/qrCode/)
 
 
 ## Built with
