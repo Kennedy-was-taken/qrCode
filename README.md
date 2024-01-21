@@ -34,7 +34,7 @@
 ### Links
 
 - Solution URL: [GitHub code solution URL](https://kennedy-was-taken.github.io/qrCode/)
-- Live site Url : [Vercel QR code app](qr-code-8zwahhqyy-tokelos-projects.vercel.app)
+- Live site Url : [Vercel QR code app](qr-code-eight-mu.vercel.app)
 
 
 ### Built with
