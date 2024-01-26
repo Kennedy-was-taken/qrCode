@@ -3,6 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -12,20 +13,14 @@
 
 ## Overview
 
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the page depending on their device's screen size
+- See hover states for all interactive elements on the page
+
 ### Screenshot
-  
-  - Screen size(max-width : 375px)
-
-
-   ![smallest screen width](./src/assets/images/screenShots/smallestScreen.png)
-
-  - As the screen height reaches 800px and higher, the QR code will change size for better readability.
-  - Screen size(height >= 800)
-  
-  
-   ![Adapted size](./src/assets/images/screenShots/HeightChange.png)
-  - Desktop visual
-  
   
    ![Full screen](./src/assets/images/screenShots/fullScreen.png)
   
